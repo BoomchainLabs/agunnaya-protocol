@@ -1,0 +1,5 @@
+{
+  "name": "AGU Token DApp",
+  "description": "A multi-chain liquidity dashboard and DEX interface featuring Uniswap V3 position visualization, swap widgets, and trading charts.",
+  "requestFramePermissions": []
+}
